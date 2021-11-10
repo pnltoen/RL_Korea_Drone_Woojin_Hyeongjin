@@ -1,0 +1,54 @@
+Mono path[0] = 'C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Managed'
+Mono config path = 'C:/Users/kgu308/Desktop/drone/MonoBleedingEdge/etc'
+Initialize engine version: 2021.1.6f1 (d6fd741ee4c5)
+[Subsystems] Discovering subsystems at path C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5991 MB
+    Driver:   30.0.14.9649
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.110 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.812100 ms
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kgu308/Desktop/drone/DroneDelivery_Data/Mono/libSystem.dylib
+Setting up 16 worker threads for Enlighten.
+  Thread -> id: 5974 -> priority: 1 
+  Thread -> id: 5944 -> priority: 1 
+  Thread -> id: 5938 -> priority: 1 
+  Thread -> id: 4cdc -> priority: 1 
+  Thread -> id: 4d74 -> priority: 1 
+  Thread -> id: 3a70 -> priority: 1 
+  Thread -> id: 4e88 -> priority: 1 
+  Thread -> id: 452c -> priority: 1 
+  Thread -> id: 1a48 -> priority: 1 
+  Thread -> id: 5078 -> priority: 1 
+  Thread -> id: 5bd0 -> priority: 1 
+  Thread -> id: 2df4 -> priority: 1 
+  Thread -> id: 5b20 -> priority: 1 
+  Thread -> id: 4d54 -> priority: 1 
+  Thread -> id: 5818 -> priority: 1 
+  Thread -> id: 31d4 -> priority: 1 
