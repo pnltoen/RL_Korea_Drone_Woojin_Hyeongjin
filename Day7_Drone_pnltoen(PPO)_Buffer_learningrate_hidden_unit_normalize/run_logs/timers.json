@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1636254368",
+        "python_version": "3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\csghg\\anaconda3\\Scripts\\mlagents-learn C:\\Users\\csghg\\results\\Day7_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\configuration.yaml --env=C:\\Users\\csghg\\Desktop\\Woojin\\DroneDelivery.exe --width=1080 --width=720 --run-id=Day7_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize --resume",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.2",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1636254378"
+    },
+    "total": 10.5612705,
+    "count": 1,
+    "self": 0.8384488000000001,
+    "children": {
+        "run_training.setup": {
+            "total": 0.17074250000000002,
+            "count": 1,
+            "self": 0.17074250000000002
+        },
+        "TrainerController.start_learning": {
+            "total": 9.5520792,
+            "count": 1,
+            "self": 8.200000000080365e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 9.278120699999999,
+                    "count": 1,
+                    "self": 9.278120699999999
+                },
+                "TrainerController._save_models": {
+                    "total": 0.2738765000000001,
+                    "count": 1,
+                    "self": 0.005916499999999658,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.2679600000000004,
+                            "count": 1,
+                            "self": 0.2679600000000004
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

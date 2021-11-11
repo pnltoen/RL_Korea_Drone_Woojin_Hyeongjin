@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 2999971,
+                "file_path": "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-2999971.onnx",
+                "reward": 38.07777710144337,
+                "creation_time": 1636193428.5874758,
+                "auxillary_file_paths": [
+                    "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-2999971.pt"
+                ]
+            },
+            {
+                "steps": 3131727,
+                "file_path": "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-3131727.onnx",
+                "reward": 10.463148212432861,
+                "creation_time": 1636195368.673927,
+                "auxillary_file_paths": [
+                    "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-3131727.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-0.onnx",
+                "reward": null,
+                "creation_time": 1636220636.0569885,
+                "auxillary_file_paths": [
+                    "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1636220636.0569885,
+            "auxillary_file_paths": [
+                "results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\My Behavior\\My Behavior-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.2"
+    }
+}

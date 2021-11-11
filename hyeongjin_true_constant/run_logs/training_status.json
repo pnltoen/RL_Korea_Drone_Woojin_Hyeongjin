@@ -1,0 +1,128 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499944,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-499944.onnx",
+                "reward": 0.1158295981780005,
+                "creation_time": 1636447757.5178993,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-499944.pt"
+                ]
+            },
+            {
+                "steps": 740008,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-740008.onnx",
+                "reward": 0.021349253323437137,
+                "creation_time": 1636452171.3994892,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-740008.pt"
+                ]
+            },
+            {
+                "steps": 999889,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-999889.onnx",
+                "reward": 0.07669059722684324,
+                "creation_time": 1636456032.193313,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-999889.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-1499968.onnx",
+                "reward": -0.02555714083266341,
+                "creation_time": 1636463630.1592484,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999975,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-1999975.onnx",
+                "reward": 0.10655756283085793,
+                "creation_time": 1636471076.0280886,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-1999975.pt"
+                ]
+            },
+            {
+                "steps": 2499984,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-2499984.onnx",
+                "reward": 0.011982713220641017,
+                "creation_time": 1636478535.3559024,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-2499984.pt"
+                ]
+            },
+            {
+                "steps": 2999889,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-2999889.onnx",
+                "reward": -0.03472929804896315,
+                "creation_time": 1636486002.0678635,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-2999889.pt"
+                ]
+            },
+            {
+                "steps": 3499950,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-3499950.onnx",
+                "reward": 0.13149541895836592,
+                "creation_time": 1636493483.5441015,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-3499950.pt"
+                ]
+            },
+            {
+                "steps": 3999975,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-3999975.onnx",
+                "reward": -0.007444615621352568,
+                "creation_time": 1636500969.2711022,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-3999975.pt"
+                ]
+            },
+            {
+                "steps": 4499993,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-4499993.onnx",
+                "reward": 0.13071174826472998,
+                "creation_time": 1636508444.228072,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-4499993.pt"
+                ]
+            },
+            {
+                "steps": 4999916,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-4999916.onnx",
+                "reward": 0.08465853473171592,
+                "creation_time": 1636515911.9193325,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-4999916.pt"
+                ]
+            },
+            {
+                "steps": 5004627,
+                "file_path": "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-5004627.onnx",
+                "reward": null,
+                "creation_time": 1636515987.5634782,
+                "auxillary_file_paths": [
+                    "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-5004627.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5004627,
+            "file_path": "results\\hyeongjin_true_constant\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1636515987.5634782,
+            "auxillary_file_paths": [
+                "results\\hyeongjin_true_constant\\My Behavior\\My Behavior-5004627.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.10.0"
+    }
+}

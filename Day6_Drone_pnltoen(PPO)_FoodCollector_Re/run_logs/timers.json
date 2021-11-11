@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1636220629",
+        "python_version": "3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\csghg\\anaconda3\\Scripts\\mlagents-learn C:\\Users\\csghg\\results\\Day6_Drone_pnltoen(PPO)_FoodCollector_Re\\FoodCollector.yaml --env=C:\\Users\\csghg\\Desktop\\Woojin\\DroneDelivery.exe --width=1080 --height=720 --run-id=Day6_Drone_pnltoen(PPO)_FoodCollector_Re --resume",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.2",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1636220636"
+    },
+    "total": 6.6472696000000004,
+    "count": 1,
+    "self": 0.44352120000000017,
+    "children": {
+        "run_training.setup": {
+            "total": 0.16956039999999994,
+            "count": 1,
+            "self": 0.16956039999999994
+        },
+        "TrainerController.start_learning": {
+            "total": 6.034188,
+            "count": 1,
+            "self": 9.290000000028442e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 5.8150069,
+                    "count": 1,
+                    "self": 5.8150069
+                },
+                "TrainerController._save_models": {
+                    "total": 0.21908819999999984,
+                    "count": 1,
+                    "self": 0.006686099999999584,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.21240210000000026,
+                            "count": 1,
+                            "self": 0.21240210000000026
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
