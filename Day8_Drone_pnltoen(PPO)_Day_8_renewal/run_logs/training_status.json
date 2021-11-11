@@ -1,0 +1,299 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499992,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-499992.onnx",
+                "reward": 13.87080446879069,
+                "creation_time": 1636347501.7988746,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-499992.pt"
+                ]
+            },
+            {
+                "steps": 999957,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-999957.onnx",
+                "reward": 7.299961090087891,
+                "creation_time": 1636354584.007694,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-999957.pt"
+                ]
+            },
+            {
+                "steps": 1499960,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-1499960.onnx",
+                "reward": 17.060608021418254,
+                "creation_time": 1636362075.5750859,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-1499960.pt"
+                ]
+            },
+            {
+                "steps": 1999997,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-1999997.onnx",
+                "reward": 12.898646831512451,
+                "creation_time": 1636369657.894,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-1999997.pt"
+                ]
+            },
+            {
+                "steps": 2499910,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-2499910.onnx",
+                "reward": 30.881581672600337,
+                "creation_time": 1636377272.7401884,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-2499910.pt"
+                ]
+            },
+            {
+                "steps": 2999934,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-2999934.onnx",
+                "reward": 21.95444679260254,
+                "creation_time": 1636384751.5418384,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-2999934.pt"
+                ]
+            },
+            {
+                "steps": 3499899,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-3499899.onnx",
+                "reward": 31.06676435470581,
+                "creation_time": 1636392356.3838544,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-3499899.pt"
+                ]
+            },
+            {
+                "steps": 3999908,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-3999908.onnx",
+                "reward": 9.960397505760193,
+                "creation_time": 1636399497.8459418,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-3999908.pt"
+                ]
+            },
+            {
+                "steps": 4499947,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-4499947.onnx",
+                "reward": 26.984786799079494,
+                "creation_time": 1636406639.707141,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-4499947.pt"
+                ]
+            },
+            {
+                "steps": 4999957,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-4999957.onnx",
+                "reward": 45.99349956512451,
+                "creation_time": 1636413843.3504393,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-4999957.pt"
+                ]
+            },
+            {
+                "steps": 5499900,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-5499900.onnx",
+                "reward": 36.50162922673755,
+                "creation_time": 1636421034.6160827,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-5499900.pt"
+                ]
+            },
+            {
+                "steps": 5999992,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-5999992.onnx",
+                "reward": 15.422344028949738,
+                "creation_time": 1636428241.4290292,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-5999992.pt"
+                ]
+            },
+            {
+                "steps": 6499938,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-6499938.onnx",
+                "reward": 27.701165625923558,
+                "creation_time": 1636435462.3812892,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-6499938.pt"
+                ]
+            },
+            {
+                "steps": 6999878,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-6999878.onnx",
+                "reward": 21.531015425920486,
+                "creation_time": 1636442740.8350794,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-6999878.pt"
+                ]
+            },
+            {
+                "steps": 7499974,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-7499974.onnx",
+                "reward": 24.46453553980047,
+                "creation_time": 1636449984.8348017,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-7499974.pt"
+                ]
+            },
+            {
+                "steps": 7999994,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-7999994.onnx",
+                "reward": 24.15238550901413,
+                "creation_time": 1636457459.754313,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-7999994.pt"
+                ]
+            },
+            {
+                "steps": 8499988,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-8499988.onnx",
+                "reward": 23.778358734172322,
+                "creation_time": 1636465347.8679454,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-8499988.pt"
+                ]
+            },
+            {
+                "steps": 8999963,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-8999963.onnx",
+                "reward": 20.033723079241238,
+                "creation_time": 1636472632.7964962,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-8999963.pt"
+                ]
+            },
+            {
+                "steps": 9499993,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-9499993.onnx",
+                "reward": 68.22880268096924,
+                "creation_time": 1636479808.0971632,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-9499993.pt"
+                ]
+            },
+            {
+                "steps": 9999982,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-9999982.onnx",
+                "reward": 18.58138771355152,
+                "creation_time": 1636486958.7451005,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-9999982.pt"
+                ]
+            },
+            {
+                "steps": 10499953,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-10499953.onnx",
+                "reward": 1.1911582946777344,
+                "creation_time": 1636494114.079163,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-10499953.pt"
+                ]
+            },
+            {
+                "steps": 10999983,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-10999983.onnx",
+                "reward": 19.59531843662262,
+                "creation_time": 1636501246.594599,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-10999983.pt"
+                ]
+            },
+            {
+                "steps": 11499958,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-11499958.onnx",
+                "reward": 12.55000364780426,
+                "creation_time": 1636508710.5131874,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-11499958.pt"
+                ]
+            },
+            {
+                "steps": 11999974,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-11999974.onnx",
+                "reward": 23.11588612724753,
+                "creation_time": 1636515964.1652684,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-11999974.pt"
+                ]
+            },
+            {
+                "steps": 12300069,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12300069.onnx",
+                "reward": 21.505395305156707,
+                "creation_time": 1636527280.4954805,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12300069.pt"
+                ]
+            },
+            {
+                "steps": 12499926,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12499926.onnx",
+                "reward": 25.764530936876934,
+                "creation_time": 1636530348.1090956,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12499926.pt"
+                ]
+            },
+            {
+                "steps": 12999983,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12999983.onnx",
+                "reward": 18.400573739299066,
+                "creation_time": 1636537832.0017917,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-12999983.pt"
+                ]
+            },
+            {
+                "steps": 13499919,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-13499919.onnx",
+                "reward": 14.00699170069261,
+                "creation_time": 1636545041.3725655,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-13499919.pt"
+                ]
+            },
+            {
+                "steps": 13999950,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-13999950.onnx",
+                "reward": null,
+                "creation_time": 1636552383.540422,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-13999950.pt"
+                ]
+            },
+            {
+                "steps": 14499923,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-14499923.onnx",
+                "reward": 14.845326153437297,
+                "creation_time": 1636559803.5846965,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-14499923.pt"
+                ]
+            },
+            {
+                "steps": 14865014,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-14865014.onnx",
+                "reward": null,
+                "creation_time": 1636565691.5362816,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-14865014.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14865014,
+            "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1636565691.5362816,
+            "auxillary_file_paths": [
+                "results\\Day8_Drone_pnltoen(PPO)_Day_8_renewal\\My Behavior\\My Behavior-14865014.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.9.0+cu111"
+    }
+}

@@ -1,0 +1,8 @@
+
+{
+	"reward" : 50,
+	"penalty" : -10,
+	"distanceRewardScale": 1
+}
+	
+

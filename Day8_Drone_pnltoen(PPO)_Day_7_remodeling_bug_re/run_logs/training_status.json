@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 77520,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_7_remodeling_bug_re\\My Behavior\\My Behavior-77520.onnx",
+                "reward": -9.938204155046753,
+                "creation_time": 1636300462.8694773,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Day_7_remodeling_bug_re\\My Behavior\\My Behavior-77520.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 77520,
+            "file_path": "results\\Day8_Drone_pnltoen(PPO)_Day_7_remodeling_bug_re\\My Behavior.onnx",
+            "reward": -9.938204155046753,
+            "creation_time": 1636300462.8694773,
+            "auxillary_file_paths": [
+                "results\\Day8_Drone_pnltoen(PPO)_Day_7_remodeling_bug_re\\My Behavior\\My Behavior-77520.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.9.0+cu111"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499949,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior\\My Behavior-499949.onnx",
+                "reward": 9.923022349675497,
+                "creation_time": 1636256971.573092,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior\\My Behavior-499949.pt"
+                ]
+            },
+            {
+                "steps": 932156,
+                "file_path": "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior\\My Behavior-932156.onnx",
+                "reward": -5.030654150497082,
+                "creation_time": 1636262892.7332954,
+                "auxillary_file_paths": [
+                    "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior\\My Behavior-932156.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 932156,
+            "file_path": "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior.onnx",
+            "reward": -5.030654150497082,
+            "creation_time": 1636262892.7332954,
+            "auxillary_file_paths": [
+                "results\\Day8_Drone_pnltoen(PPO)_Buffer_learningrate_hidden_unit_normalize\\My Behavior\\My Behavior-932156.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.9.0+cu111"
+    }
+}
