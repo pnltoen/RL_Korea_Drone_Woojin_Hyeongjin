@@ -1,0 +1,1 @@
+mlagents-learn "C:\Users\Park woojin\results\beta_0.04_linear_normalize\configuration.yaml" --env="C:\Users\Park woojin\Desktop\2021_RLKR_Drone_Delivery_Challenge_with_Unity-master\DroneDelivery.exe" --run-id=1.9.0 --width=572 --height=372

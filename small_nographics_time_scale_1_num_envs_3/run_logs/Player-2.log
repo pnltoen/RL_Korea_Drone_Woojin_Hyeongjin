@@ -1,0 +1,69 @@
+Mono path[0] = 'C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Managed'
+Mono config path = 'C:/Users/Park woojin/Desktop/windows (1)/MonoBleedingEdge/etc'
+Initialize engine version: 2021.1.6f1 (d6fd741ee4c5)
+[Subsystems] Discovering subsystems at path C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.151 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/VertexAlpha shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Skybox/6 Sided shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Diffuse shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'DoubleSided/Metalic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader DoubleSided/Metalic shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'DoubleSided/Metalic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+UnloadTime: 0.517600 ms
+ERROR: Shader Unlit/Transparent Colored shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data/Mono/libSystem.dylib
+ERROR: Shader Unlit/Text shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unable to save timers to file C:/Users/Park woojin/Desktop/windows (1)/DroneDelivery_Data\ML-Agents\Timers\TrainScene_timers.json
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: e2d0 -> priority: 1 
+  Thread -> id: 9d9c -> priority: 1 
+  Thread -> id: 8428 -> priority: 1 

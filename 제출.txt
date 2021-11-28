@@ -1,0 +1,2 @@
+cd C:\Users\Park woojin\Desktop\test\RL_Korea_Drone_Woojin_Hyeongjin-LHJ
+python -m aifactory.Executables.submit --key 6619b91f-cee1-48ce-890b-e9c613bf65da --file Day_3.zip

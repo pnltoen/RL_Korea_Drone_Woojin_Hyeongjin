@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499994,
+                "file_path": "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-499994.onnx",
+                "reward": 0.9668148795026354,
+                "creation_time": 1637520079.033202,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-499994.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-999993.onnx",
+                "reward": 0.9821782367303967,
+                "creation_time": 1637524930.3260095,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-999993.pt"
+                ]
+            },
+            {
+                "steps": 1499996,
+                "file_path": "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-1499996.onnx",
+                "reward": 1.0345345801407737,
+                "creation_time": 1637529806.7422404,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-1499996.pt"
+                ]
+            },
+            {
+                "steps": 1999994,
+                "file_path": "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-1999994.onnx",
+                "reward": 1.083698995854883,
+                "creation_time": 1637534568.6599364,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-1999994.pt"
+                ]
+            },
+            {
+                "steps": 2360491,
+                "file_path": "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-2360491.onnx",
+                "reward": 0.20368854173769554,
+                "creation_time": 1637538105.253761,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-2360491.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2360491,
+            "file_path": "results\\no_graphcis_morebuffer\\My Behavior.onnx",
+            "reward": 0.20368854173769554,
+            "creation_time": 1637538105.253761,
+            "auxillary_file_paths": [
+                "results\\no_graphcis_morebuffer\\My Behavior\\My Behavior-2360491.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.8.1+cpu"
+    }
+}

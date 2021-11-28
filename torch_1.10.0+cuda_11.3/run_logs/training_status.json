@@ -1,0 +1,272 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499951,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-499951.onnx",
+                "reward": 3.387762584351003,
+                "creation_time": 1636955343.9998062,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-499951.pt"
+                ]
+            },
+            {
+                "steps": 500079,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-500079.onnx",
+                "reward": 3.387762584351003,
+                "creation_time": 1636955346.1993005,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-500079.pt"
+                ]
+            },
+            {
+                "steps": 9487064,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9487064.onnx",
+                "reward": 6.829302072525024,
+                "creation_time": 1637086236.427545,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9487064.pt"
+                ]
+            },
+            {
+                "steps": 9489329,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9489329.onnx",
+                "reward": 4.947119082401817,
+                "creation_time": 1637086324.8281934,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9489329.pt"
+                ]
+            },
+            {
+                "steps": 9489585,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9489585.onnx",
+                "reward": null,
+                "creation_time": 1637086346.584232,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9489585.pt"
+                ]
+            },
+            {
+                "steps": 9499919,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9499919.onnx",
+                "reward": 5.770064627363657,
+                "creation_time": 1637086673.8491483,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9499919.pt"
+                ]
+            },
+            {
+                "steps": 9999921,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9999921.onnx",
+                "reward": 6.661764984950423,
+                "creation_time": 1637095286.4458532,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-9999921.pt"
+                ]
+            },
+            {
+                "steps": 10499967,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-10499967.onnx",
+                "reward": 7.434282939215856,
+                "creation_time": 1637103881.2573404,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-10499967.pt"
+                ]
+            },
+            {
+                "steps": 10999987,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-10999987.onnx",
+                "reward": 7.248959646560252,
+                "creation_time": 1637112798.3709905,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-10999987.pt"
+                ]
+            },
+            {
+                "steps": 11499901,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-11499901.onnx",
+                "reward": 7.2881952449679375,
+                "creation_time": 1637122081.9592085,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-11499901.pt"
+                ]
+            },
+            {
+                "steps": 11999900,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-11999900.onnx",
+                "reward": 10.67766700387001,
+                "creation_time": 1637130909.540257,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-11999900.pt"
+                ]
+            },
+            {
+                "steps": 12499997,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-12499997.onnx",
+                "reward": 7.236466799791042,
+                "creation_time": 1637139638.5520933,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-12499997.pt"
+                ]
+            },
+            {
+                "steps": 12999927,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-12999927.onnx",
+                "reward": 6.937032446265221,
+                "creation_time": 1637148279.2308574,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-12999927.pt"
+                ]
+            },
+            {
+                "steps": 13499874,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-13499874.onnx",
+                "reward": 5.388148178346455,
+                "creation_time": 1637156640.9858108,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-13499874.pt"
+                ]
+            },
+            {
+                "steps": 13999988,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-13999988.onnx",
+                "reward": 5.990199565887451,
+                "creation_time": 1637165983.4893775,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-13999988.pt"
+                ]
+            },
+            {
+                "steps": 14499989,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-14499989.onnx",
+                "reward": 6.196828518621624,
+                "creation_time": 1637174717.374785,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-14499989.pt"
+                ]
+            },
+            {
+                "steps": 14999990,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-14999990.onnx",
+                "reward": 6.7526402265454335,
+                "creation_time": 1637183461.4430974,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-14999990.pt"
+                ]
+            },
+            {
+                "steps": 15499988,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-15499988.onnx",
+                "reward": null,
+                "creation_time": 1637192184.117469,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-15499988.pt"
+                ]
+            },
+            {
+                "steps": 15999917,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-15999917.onnx",
+                "reward": 7.935691530272986,
+                "creation_time": 1637201037.9693232,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-15999917.pt"
+                ]
+            },
+            {
+                "steps": 16499983,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-16499983.onnx",
+                "reward": 10.322918752829233,
+                "creation_time": 1637210633.4763865,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-16499983.pt"
+                ]
+            },
+            {
+                "steps": 16999895,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-16999895.onnx",
+                "reward": 8.473002348467707,
+                "creation_time": 1637218125.8998137,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-16999895.pt"
+                ]
+            },
+            {
+                "steps": 17499886,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-17499886.onnx",
+                "reward": 8.228740334510803,
+                "creation_time": 1637225307.799578,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-17499886.pt"
+                ]
+            },
+            {
+                "steps": 17999905,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-17999905.onnx",
+                "reward": 12.743200521077961,
+                "creation_time": 1637232488.237182,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-17999905.pt"
+                ]
+            },
+            {
+                "steps": 18499876,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-18499876.onnx",
+                "reward": 7.2101398427039385,
+                "creation_time": 1637239661.60343,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-18499876.pt"
+                ]
+            },
+            {
+                "steps": 18999959,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-18999959.onnx",
+                "reward": 8.388853353376572,
+                "creation_time": 1637246967.220987,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-18999959.pt"
+                ]
+            },
+            {
+                "steps": 19499989,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-19499989.onnx",
+                "reward": 11.32548754364252,
+                "creation_time": 1637255198.6499202,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-19499989.pt"
+                ]
+            },
+            {
+                "steps": 19999996,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-19999996.onnx",
+                "reward": 6.725002838722006,
+                "creation_time": 1637262959.6507301,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-19999996.pt"
+                ]
+            },
+            {
+                "steps": 20000124,
+                "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-20000124.onnx",
+                "reward": 6.725002838722006,
+                "creation_time": 1637262959.977809,
+                "auxillary_file_paths": [
+                    "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-20000124.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20000124,
+            "file_path": "results\\torch_1.10.0+cuda_11.3\\My Behavior.onnx",
+            "reward": 6.725002838722006,
+            "creation_time": 1637262959.977809,
+            "auxillary_file_paths": [
+                "results\\torch_1.10.0+cuda_11.3\\My Behavior\\My Behavior-20000124.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0"
+    }
+}

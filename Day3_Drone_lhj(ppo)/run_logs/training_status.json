@@ -45,33 +45,15 @@
                 "auxillary_file_paths": [
                     "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14000019.pt"
                 ]
-            },
-            {
-                "steps": 14499938,
-                "file_path": "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14499938.onnx",
-                "reward": 2.6531261054470257,
-                "creation_time": 1636525556.9979045,
-                "auxillary_file_paths": [
-                    "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14499938.pt"
-                ]
-            },
-            {
-                "steps": 14794829,
-                "file_path": "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14794829.onnx",
-                "reward": 3.0849618315696716,
-                "creation_time": 1636530179.023109,
-                "auxillary_file_paths": [
-                    "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14794829.pt"
-                ]
             }
         ],
         "final_checkpoint": {
-            "steps": 14794829,
-            "file_path": "results\\Day3_Drone_lhj(ppo)\\My Behavior.onnx",
+            "steps": 14000019,
+            "file_path": "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14000019.onnx",
             "reward": 3.0849618315696716,
             "creation_time": 1636530179.023109,
             "auxillary_file_paths": [
-                "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14794829.pt"
+                "results\\Day3_Drone_lhj(ppo)\\My Behavior\\My Behavior-14000019.pt"
             ]
         }
     },

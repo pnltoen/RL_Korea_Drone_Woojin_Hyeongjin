@@ -1,0 +1,56 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-499968.onnx",
+                "reward": 0.1755449492484331,
+                "creation_time": 1637542601.6569972,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-499968.pt"
+                ]
+            },
+            {
+                "steps": 999969,
+                "file_path": "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-999969.onnx",
+                "reward": 0.7472719789172212,
+                "creation_time": 1637546919.3650815,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-999969.pt"
+                ]
+            },
+            {
+                "steps": 1499970,
+                "file_path": "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-1499970.onnx",
+                "reward": 0.32830468681640923,
+                "creation_time": 1637551184.5436304,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-1499970.pt"
+                ]
+            },
+            {
+                "steps": 1835615,
+                "file_path": "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-1835615.onnx",
+                "reward": 1.836470971815288,
+                "creation_time": 1637554068.0587974,
+                "auxillary_file_paths": [
+                    "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-1835615.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1835615,
+            "file_path": "results\\no_graphcis_smallbuffer\\My Behavior.onnx",
+            "reward": 1.836470971815288,
+            "creation_time": 1637554068.0587974,
+            "auxillary_file_paths": [
+                "results\\no_graphcis_smallbuffer\\My Behavior\\My Behavior-1835615.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.8.1+cpu"
+    }
+}

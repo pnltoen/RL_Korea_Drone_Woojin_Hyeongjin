@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1637554083",
+        "python_version": "3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Anaconda\\Scripts\\mlagents-learn C:\\Users\\Park woojin\\results\\last.yaml --env=C:\\Users\\Park woojin\\Desktop\\2021_RLKR_Drone_Delivery_Challenge_with_Unity-master\\DroneDelivery.exe --run-id=no_graphcis_largebuffer_re --time-scale=35 --no-graphics --force",
+        "mlagents_version": "0.26.0",
+        "mlagents_envs_version": "0.26.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.1+cpu",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1637554091"
+    },
+    "total": 7.7376762999999995,
+    "count": 1,
+    "self": 0.005360399999998933,
+    "children": {
+        "run_training.setup": {
+            "total": 0.21188300000000004,
+            "count": 1,
+            "self": 0.21188300000000004
+        },
+        "TrainerController.start_learning": {
+            "total": 7.5204329,
+            "count": 1,
+            "self": 0.000772500000000953,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 7.519653100000001,
+                    "count": 1,
+                    "self": 7.519653100000001
+                },
+                "trainer_threads": {
+                    "total": 8.999999998593466e-07,
+                    "count": 1,
+                    "self": 8.999999998593466e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 6.399999998407679e-06,
+                    "count": 1,
+                    "self": 6.399999998407679e-06
+                }
+            }
+        }
+    }
+}
